@@ -26,7 +26,10 @@ Since SQLite3 database does not support UUID type, you will use a Text column to
 You can follow the development steps that we use in the class for your implementation. 
 
 Submission
+
 Turn in the code for this homework by uploading your project to a public repository on GitHub. While you may discuss this homework assignment with other students, you must complete the work on your own.
 To complete your submission, upload the below information to Titanium: 
-Your name             Tony Nguyen	 
-Repository https://github.com/              TonyNg14                                  /  CPSC411-RestServer	
+
+Your name: Tony Nguyen	 
+
+Repository https://github.com/TonyNg14/CPSC411-RestServer	
