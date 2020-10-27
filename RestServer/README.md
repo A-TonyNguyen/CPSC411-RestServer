@@ -1,5 +1,9 @@
 # Rest Server
 
+The folder to look at is in Sources/RestServer.
+
+Program Description:
+
 A REST server which will manage the following Claim entity in its SQLite3 database:  
 
 | Property Name |                      Description                      | Data Type |
